@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T10:26:58.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="TtprkzE9CkByybVS4WT6" type="github"><diagram id="6E08GMAk9-aXA0RGU_5_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-03T10:52:29.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="WKuM8wimCU_TIzpa6fuO" version="13.7.7" type="github">
+  <diagram id="6E08GMAk9-aXA0RGU_5_" name="Page-1">
+    <mxGraphModel dx="460" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=eventNonint;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-1" target="EZuWLklTJsP_G1wKl4zX-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="410" as="sourcePoint" />
+            <mxPoint x="190" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-5" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-17" target="EZuWLklTJsP_G1wKl4zX-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="225" as="sourcePoint" />
+            <mxPoint x="390" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-10" value="Нет&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-17" target="EZuWLklTJsP_G1wKl4zX-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-16" target="EZuWLklTJsP_G1wKl4zX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-16" value="Связаться с поставщиком запросить точные сроки отправки" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-17" target="EZuWLklTJsP_G1wKl4zX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-17" value="Проверка наличия заказанных товаров на складе" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="185" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-19" value="Проверка корректности заполненных данных пользователем&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="185" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-20" target="EZuWLklTJsP_G1wKl4zX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-20" value="Уточнение точной поставки" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-23" target="EZuWLklTJsP_G1wKl4zX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-23" value="подобрать альтернативные варианты товаров, которые есть в наличии и можно предложить как замену&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="590" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZuWLklTJsP_G1wKl4zX-25" target="EZuWLklTJsP_G1wKl4zX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-25" value="Проверка коррективных заполненных данных пользователя" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="780" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EZuWLklTJsP_G1wKl4zX-27" value="Связаться с клиентом и обсудить детали доставки" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="970" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
