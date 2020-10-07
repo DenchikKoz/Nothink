@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T15:04:14.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.8" etag="R4XOgIElgUHtSNUzJGI7" type="github"><diagram id="kS2wxAfiNBydDWE-hHjl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T15:12:27.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fykNBAWr0-J9ktdJ2Jfv" version="13.7.8" type="github">
+  <diagram id="kS2wxAfiNBydDWE-hHjl" name="Страница 1">
+    <mxGraphModel dx="1287" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-10" width="668" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-3" value="Стратегические системы(ESS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-4" value="Аналитические системы(KWS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="241" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-5" value="Аналитические системы(KWS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277" y="301" width="274" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-6" value="Системы поддержки процесса принятия решения (DSS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237" y="361" width="353" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-7" value="Система оперативного управления (MIS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="198" y="421" width="432" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGaroh3OyL9OyQzGbPpI-8" value="Система оперативного управления (MIS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="481" width="507" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
