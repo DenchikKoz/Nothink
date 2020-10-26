@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:17:46.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2uWHA8reQyHHkR75T4-5" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:32:39.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qgxhTYljoOXPMuB3F_Vm" version="13.8.2" type="github">
   <diagram id="dF7jvVWnlAJ42GI5rhBq" name="Страница 1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="618" y="252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIahQSohxiljDqseurVx-5" value="" style="endArrow=classic;html=1;entryX=-0.01;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="gIahQSohxiljDqseurVx-15">
+        <mxCell id="gIahQSohxiljDqseurVx-5" value="" style="endArrow=classic;html=1;entryX=-0.01;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gIahQSohxiljDqseurVx-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="340.04" as="sourcePoint" />
             <mxPoint x="618" y="340.00000000000006" as="targetPoint" />
@@ -70,7 +70,7 @@
         <mxCell id="gIahQSohxiljDqseurVx-17" value="Устройства по переработке нефти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="328" y="470" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J7YIFgL8fUcH-UwOCN5q-1" value="Нормативные акты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="J7YIFgL8fUcH-UwOCN5q-1" value="Нормативные акты компании" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="408" y="110" width="92" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7YIFgL8fUcH-UwOCN5q-6" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
