@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:57:45.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zpmlpWTXYiNeMCoCW5nj" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:06:10.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sVJjglJjxb3lrZJV1art" version="13.8.2" type="github">
   <diagram id="DVtbzOWjSRTBm0up9mBF" name="Страница 1">
     <mxGraphModel dx="1422" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,6 +136,18 @@
         </mxCell>
         <mxCell id="F6LPTmze1b68rLzHFv5W-39" value="Выбранные продукты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6LPTmze1b68rLzHFv5W-40" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F6LPTmze1b68rLzHFv5W-41" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F6LPTmze1b68rLzHFv5W-42" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F6LPTmze1b68rLzHFv5W-43" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="520" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
