@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T10:03:32.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6SJIZ5RmGjoLx1M7Q6N_" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T10:03:44.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="V7cQM27kiVQ7hWxWuEta" version="13.8.5" type="github">
   <diagram id="_np8LFvxiJXb23xXrw2T" name="Страница 1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cQTp0JBLYS7mNWiIGho8-11" value="Ценовая политика" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="40" height="20" as="geometry" />
+          <mxGeometry x="340" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cQTp0JBLYS7mNWiIGho8-12" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cQTp0JBLYS7mNWiIGho8-13" value="Нормативные акты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="40" height="20" as="geometry" />
+          <mxGeometry x="460" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cQTp0JBLYS7mNWiIGho8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.159;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cQTp0JBLYS7mNWiIGho8-17" target="cQTp0JBLYS7mNWiIGho8-1">
           <mxGeometry relative="1" as="geometry" />
