@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T08:23:30.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.5" etag="GLRjLUQXuBlEBScEYykC" type="github"><diagram id="_np8LFvxiJXb23xXrw2T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T09:58:00.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xSBCbYjg5yzbG2YJ8o89" version="13.8.5" type="github">
+  <diagram id="_np8LFvxiJXb23xXrw2T" name="Страница 1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-1" value="Продажа продуктов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="240" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-2" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="325" as="sourcePoint" />
+            <mxPoint x="304" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-3" value="Заказы покупателей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-6" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="285" as="sourcePoint" />
+            <mxPoint x="648" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-7" value="Доход" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="395" as="sourcePoint" />
+            <mxPoint x="648" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-9" value="Продажи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="370" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-10" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cQTp0JBLYS7mNWiIGho8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="150" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-11" value="Ценовая политика" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-12" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="150" as="sourcePoint" />
+            <mxPoint x="479" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-13" value="Нормативные акты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.159;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cQTp0JBLYS7mNWiIGho8-17" target="cQTp0JBLYS7mNWiIGho8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-17" value="Персонал" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cQTp0JBLYS7mNWiIGho8-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQTp0JBLYS7mNWiIGho8-20" value="Магазинные аппараты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
