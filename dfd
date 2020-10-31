@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T09:40:41.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Gq4H77Z1WA1KTqVR_E6h" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T09:44:30.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KJe2zpEYMe6mqmQilU2o" version="13.8.7" type="github">
   <diagram id="TAmgFWtA6BJR1AkB-BLy" name="Страница 1">
-    <mxGraphModel dx="657" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCfo9pbxES8bVB9RQCZv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FCfo9pbxES8bVB9RQCZv-7" value="Отгрузка топливных ресурсов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="585" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FCfo9pbxES8bVB9RQCZv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -96,13 +96,13 @@
         <mxCell id="FCfo9pbxES8bVB9RQCZv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="650" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FCfo9pbxES8bVB9RQCZv-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FCfo9pbxES8bVB9RQCZv-15" value="Список нефти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FCfo9pbxES8bVB9RQCZv-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FCfo9pbxES8bVB9RQCZv-16" value="Список собранных ресурсов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FCfo9pbxES8bVB9RQCZv-17" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FCfo9pbxES8bVB9RQCZv-17" value="Список заказов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCfo9pbxES8bVB9RQCZv-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -165,7 +165,7 @@
         <mxCell id="FCfo9pbxES8bVB9RQCZv-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="830" y="440" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FCfo9pbxES8bVB9RQCZv-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FCfo9pbxES8bVB9RQCZv-37" value="Данные по отгрузке" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCfo9pbxES8bVB9RQCZv-44" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FCfo9pbxES8bVB9RQCZv-6" target="FCfo9pbxES8bVB9RQCZv-22">
