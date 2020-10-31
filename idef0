@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T08:53:26.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.7" etag="2ZyYyHMkb-B-H45IIZ-3" type="github"><diagram id="Kz-Umj4vcMGBfXvAddky">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-31T09:03:28.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IcFgT2JxKsOrLgsSDnm7" version="13.8.7" type="github">
+  <diagram id="Kz-Umj4vcMGBfXvAddky" name="Страница 1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-1" value="Поставка топлива" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-2" value="Согласование всех условий с заказчиком" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-3" value="Переработка нефти в топливные ресурсы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-4" value="Заправка машин" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-5" value="Отправка готовых машин с топливными ресурсами заказчику" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-10" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rHqUM7wdRgFuOJ3HGmoV-2" target="rHqUM7wdRgFuOJ3HGmoV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="160" as="sourcePoint" />
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-11" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rHqUM7wdRgFuOJ3HGmoV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-12" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rHqUM7wdRgFuOJ3HGmoV-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-13" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rHqUM7wdRgFuOJ3HGmoV-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-15" value="&lt;ul&gt;&lt;li&gt;Назначение водителя&amp;nbsp;&lt;/li&gt;&lt;li&gt;Выбор даты и времени&amp;nbsp;&lt;/li&gt;&lt;li&gt;Заключение приказа о отправке&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-16" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Выбор определенной машины&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Выбор вида топливного ресурса&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Заключение акта о поставе&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rHqUM7wdRgFuOJ3HGmoV-17" value="&lt;ul&gt;&lt;li&gt;Подготовка устройств по переработке&amp;nbsp;&lt;/li&gt;&lt;li&gt;Назначение персонала&amp;nbsp;&lt;/li&gt;&lt;li&gt;Использование нефти&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
