@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T06:53:04.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="fLua_RG9aUjI8Wc9cKQK" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T14:24:46.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bx8_Op6GsGKsFxe7dOLY" version="13.8.8" type="github">
   <diagram id="DVtbzOWjSRTBm0up9mBF" name="Страница 1">
-    <mxGraphModel dx="1422" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,6 +115,11 @@
             <mxPoint x="187" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vFBGzAGVSQpQ5HZf1H-_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="F6LPTmze1b68rLzHFv5W-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F6LPTmze1b68rLzHFv5W-32" value="Персонал" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="196" y="610" width="68" height="20" as="geometry" />
         </mxCell>
@@ -184,11 +189,14 @@
             <mxPoint x="629.5" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NJLYruz6eHABybHoTcM5-2" value="Охранник&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NJLYruz6eHABybHoTcM5-2" value="Охранник&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NJLYruz6eHABybHoTcM5-4" value="Кассир" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="565" width="40" height="20" as="geometry" />
+        <mxCell id="NJLYruz6eHABybHoTcM5-4" value="Кассир" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vFBGzAGVSQpQ5HZf1H-_-2" value="Продавец-консультант" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="380" width="68" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
