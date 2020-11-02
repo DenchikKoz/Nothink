@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T14:24:46.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bx8_Op6GsGKsFxe7dOLY" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T14:26:03.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HXIhIy22adSNwFcWYQ1_" version="13.8.8" type="github">
   <diagram id="DVtbzOWjSRTBm0up9mBF" name="Страница 1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
             <mxPoint x="520" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6LPTmze1b68rLzHFv5W-39" value="Выбранные продукты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="F6LPTmze1b68rLzHFv5W-39" value="Комплект продуктов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="140" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6LPTmze1b68rLzHFv5W-40" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
