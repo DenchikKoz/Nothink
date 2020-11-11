@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T16:50:50.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="gNyPmMfnRfH7RlTVWusf" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T08:42:51.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="4mVtZlqhiPU25tVu9SSM" version="13.9.3" type="github">
   <diagram id="sjTbFvkHI2C9sp_EQ8BS" name="Страница 1">
-    <mxGraphModel dx="2858" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,10 +232,10 @@
         <mxCell id="UqpvzWcxAdHbetMfQh0C-60" value="&lt;span style=&quot;color: rgb(60, 64, 82); font-family: roboto, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Организация правовой работы, подготовка предложений и проведение мероприятий по обеспечению законности деятельности Учреждения, принятие мер к предупреждению нарушений действующего законодательства;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-160" width="550" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T6EDustnyLS-S_z85SL1-1" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T6EDustnyLS-S_z85SL1-1" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6EDustnyLS-S_z85SL1-2" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T6EDustnyLS-S_z85SL1-2" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
