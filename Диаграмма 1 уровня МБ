@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:00:06.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="MxzCaVnZSQcFrdCUnN0R" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T11:06:02.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="cuwVbd4HamCXbODyeelP" version="13.9.6" type="github">
   <diagram id="9rkfLkK_oovLBiyez4fi" name="Страница 1">
     <mxGraphModel dx="1422" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,12 @@
         </mxCell>
         <mxCell id="ASMzjjH2WiRP85Oz9p87-8" value="Самокат возвращен на парковку" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="480" width="48" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASMzjjH2WiRP85Oz9p87-9" value="Страница с оплатой" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="754" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASMzjjH2WiRP85Oz9p87-10" value="Страница с выбором самокатов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
